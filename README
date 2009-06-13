@@ -1,15 +1,20 @@
 VisualPartial
 =============
 
-This plugin provides a way that you can see all the partial pages rendered. So it can prevent you from using partial page too much, which hurts the performance.
+This plugin provides a way that you can see all the partial pages rendered in browser. So it can prevent you from using partial page too much, which hurts the performance.
+
+Install
+=======
+script/plugin install git://github.com/flyerhzm/visual_partial.git
 
 Example
 =======
 
 It's easy to use. Just write in environment config file, for example, config/environments/development.rb:
 
-VisualPartial.display = true
+  VisualPartial.display = true
 
 Then, when you develop in your browser, you can see all the partial pages rendered.
 
 Copyright (c) 2009 [Huang Zhimin], released under the MIT license
+
