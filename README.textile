@@ -5,6 +5,7 @@ This plugin provides a way that you can see all the partial pages rendered in br
 **************************************************************************
 
 h2. Install
+
 <pre><code>script/plugin install git://github.com/flyerhzm/visual_partial.git</code></pre>
 
 **************************************************************************
